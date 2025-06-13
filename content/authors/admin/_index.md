@@ -210,12 +210,12 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Best Paper Honorable Mention, IEEE AIxVR
-    url: https://aivr.science.uu.nl/2024/
+    #url: https://aivr.science.uu.nl/2024/
     date: '2024'
-    awarder: IEEE International Conference on Artificial Intelligence \& extended and Virtual Reality (AIxVR)
+    awarder: IEEE International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR)
     #icon: ieee
-    summary: |
-      - Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive Virtual Reality Environments, Chheang, V., Sharmin, S., Márquez-Hernández, R., Patel, M., Rajasekaran,D., Caulfield, G., Kiafar, B., Li, J., Kullu, P. and Barmaki, R.L., 2024. 
+    # summary: |
+    #   - Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive Virtual Reality Environments, Chheang, V., Sharmin, S., Márquez-Hernández, R., Patel, M., Rajasekaran,D., Caulfield, G., Kiafar, B., Li, J., Kullu, P. and Barmaki, R.L., 2024. 
   - title: Noteworthy Achievement Award
     # url: 
     date: '2024'
@@ -224,11 +224,11 @@ awards:
     # summary: |
   - title: Best Paper Award
     #url: https://chase23.sigbed.org/Gallery.html
-    date: '2023-06'
-    awarder: IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+    date: '2023'
+    awarder: IEEE/ACM international conference on Connected Health - Applications, Systems and Engineering Technologies (CHASE)
     #icon: CHASE
-    summary: |
-      - Virtual Therapy Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors, Baron, L., Chheang, V., Chaudhari, A., Liaqat, A., Chandrasekaran, A., Wang, Y., Cashaback, J., Thostenson, E. and Barmaki, R.L., 2023. Baron, L. and Chheang, V. -- joint first authorship
+    # summary: |
+    #   - Virtual Therapy Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors, Baron, L., Chheang, V., Chaudhari, A., Liaqat, A., Chandrasekaran, A., Wang, Y., Cashaback, J., Thostenson, E. and Barmaki, R.L., 2023. Baron, L. and Chheang, V. -- joint first authorship
   - title: Nominated for Post-doctoral Research Excellence Award
     # url: 
     date: '2023'
