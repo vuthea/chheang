@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Dr.-Ing. in Computer Science
-    institution: University of Magdeburg, Germany
+    institution: Otto-von-Guericke University of Magdeburg, Germany
     date_start: 2018-11-01
     date_end: 2022-08-31
     summary: |
@@ -70,7 +70,7 @@ education:
     date_end: 2018-02-01
     summary: |
       GPA: 4.35/4.5
-      
+
       Thesis: Design and Implementation of Live Actor and Entity Representation System in 360$^o$ Virtual Reality Scene
       Advisor: Prof. Dr. Kwan-Hee Yoo, Committee: Prof. Dr. Jang-Eui Hong, Prof. Dr. Aziz Nasridinov
   - area: B.Sc in Computer Science
