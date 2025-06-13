@@ -225,7 +225,6 @@ awards:
 
   - title: 'Best Paper Award'
     url: https://chase23.sigbed.org/Gallery.html
-    # certificate_url: https://www.datacamp.com
     date: '2023'
     awarder: IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
     icon: CHASE
