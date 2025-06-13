@@ -222,8 +222,7 @@ awards:
     awarder: Lawrence Livermore National Laboratory
     icon: LLNL
     summary: |
-
-  - title: 'Best Paper Award'
+  - title: Best Paper Award
     url: https://chase23.sigbed.org/Gallery.html
     date: '2023'
     awarder: IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
