@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Asst.Prof. Dr.-Ing.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vuthea
+last_name: Chheang
 
 # Status emoji
 status:
