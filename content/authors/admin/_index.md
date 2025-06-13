@@ -70,9 +70,10 @@ education:
     date_end: 2018-02-01
     summary: |
       GPA: 4.35/4.5
+      
       Thesis: Design and Implementation of Live Actor and Entity Representation System in 360$^o$ Virtual Reality Scene
       Advisor: Prof. Dr. Kwan-Hee Yoo, Committee: Prof. Dr. Jang-Eui Hong, Prof. Dr. Aziz Nasridinov
-  - area: B.Sc in Computer Science and Engineering
+  - area: B.Sc in Computer Science
     institution: Royal University of Phnom Penh, Cambodia
     date_start: 2011-10-01
     date_end: 2015-03-01
@@ -162,21 +163,21 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: C#, Java, Python, C++, R, Visual Basic, HTML, CSS, JavaScript, PHP
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Unity Engine, Photon Unity Networking, Unet, VRTK, MRTK, Git, Latex, SimpleITK, Geometry3Sharp, MevisLab, Blender, ParaView, R Studio, X3DOM, Three.js, Aframe, WebVR, Anacoda, Jupyter Notebook, Lab Streaming Layer, OpenAI API, Tobii Eye Tracking API.
-        description: ''
-        percent: 100
-        icon: wrench-screwdriver
-      - name: SteamVR-support devices, Oculus (Meta Quest), Microsoft HoloLens, Microsoft Kinect, NReal, LeapMotion, Manus Wearable Data Gloves, Arduino.
-        description: ''
-        percent: 40
-        icon: adjustments-vertical
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: C#, Java, Python, C++, R, Visual Basic, HTML, CSS, JavaScript, PHP
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Unity Engine, Photon Unity Networking, Unet, VRTK, MRTK, Git, Latex, SimpleITK, Geometry3Sharp, MevisLab, Blender, ParaView, R Studio, X3DOM, Three.js, Aframe, WebVR, Anacoda, Jupyter Notebook, Lab Streaming Layer, OpenAI API, Tobii Eye Tracking API.
+#         description: ''
+#         percent: 100
+#         icon: wrench-screwdriver
+#       - name: SteamVR-support devices, Oculus (Meta Quest), Microsoft HoloLens, Microsoft Kinect, NReal, LeapMotion, Manus Wearable Data Gloves, Arduino.
+#         description: ''
+#         percent: 40
+#         icon: adjustments-vertical
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -213,9 +214,9 @@ awards:
     url: https://aivr.science.uu.nl/2024/
     date: '2024-01-17'
     awarder: IEEE International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR)
-    icon: ieee
+    # icon: ieee
     summary: |
-      - Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive Virtual Reality Environments, Chheang, V., Sharmin, S., Márquez-Hernández, R., Patel, M., Rajasekaran,D., Caulfield, G., Kiafar, B., Li, J., Kullu, P. and Barmaki, R.L., 2024. 
+      Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive Virtual Reality Environments, Chheang, V., Sharmin, S., Márquez-Hernández, R., Patel, M., Rajasekaran,D., Caulfield, G., Kiafar, B., Li, J., Kullu, P. and Barmaki, R.L., 2024. 
   - title: Noteworthy Achievement Award
     # url: 
     date: '2024-01-19'
@@ -228,7 +229,7 @@ awards:
     awarder: IEEE/ACM international conference on Connected Health - Applications, Systems and Engineering Technologies (CHASE)
     #icon: CHASE
     summary: |
-      - Virtual Therapy Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors, Baron, L., Chheang, V., Chaudhari, A., Liaqat, A., Chandrasekaran, A., Wang, Y., Cashaback, J., Thostenson, E. and Barmaki, R.L., 2023. Baron, L. and Chheang, V. -- joint first authorship
+      Virtual Therapy Exergame for Upper Extremity Rehabilitation Using Smart Wearable Sensors, Baron, L., Chheang, V., Chaudhari, A., Liaqat, A., Chandrasekaran, A., Wang, Y., Cashaback, J., Thostenson, E. and Barmaki, R.L., 2023. Baron, L. and Chheang, V. -- joint first authorship
   - title: Nominated for Post-doctoral Research Excellence Award
     # url: 
     date: '2023-04-21'
