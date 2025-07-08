@@ -46,6 +46,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5999-4968
 
+appointment:
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-5999-4968
+
 interests:
   - eXtended Reality (XR) — VR/AR/MR
   - Human-Computer Interactions
